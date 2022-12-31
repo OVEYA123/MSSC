@@ -2,3 +2,4 @@
 
 
 ![MODEL](https://github.com/OVEYA123/MSSC/blob/main/code-mssc/imgs/MODEL.png)
+python main.py  —params
